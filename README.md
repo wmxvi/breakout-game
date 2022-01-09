@@ -1,2 +1,5 @@
 # breakout-game
-Small little breakout game written by myself and my partner
+Small little 2D breakout game written by myself and my partner
+
+
+Features include a level system, score, points, and many customisable parameters.
